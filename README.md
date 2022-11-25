@@ -26,7 +26,7 @@
 
 - Now we need to activate our virtual environment
 
-		. venv/Scripts/activate
+		. env/Scripts/activate
 
 - Let's run the requirements.txt file to install the dependencies for this project
 	
