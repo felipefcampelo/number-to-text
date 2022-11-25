@@ -32,10 +32,6 @@
 	
 		pip install -r requirements.txt
 
-- Before we can run our API, we will need to run the migrations, not to have blockers coming from Django Framework
-
-		python manage.py migrate
-
 - Let's start a server to use the API (that will create a SQLite database and will show a message about migrations. Ignore both)
 
 		python manage.py runserver
