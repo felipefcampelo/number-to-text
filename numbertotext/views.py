@@ -15,7 +15,7 @@ def num_to_english(request):
 
     response = {
         "status": result['status'],
-        "message": result['data']
+        "num_in_english": result['data']
     }
     
     return JsonResponse(response)
