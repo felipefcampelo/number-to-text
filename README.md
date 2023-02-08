@@ -1,5 +1,6 @@
-# Number To Text - Study Case
-## Trellis
+# Number To Text
+
+### A Python API to convert numbers written with numerical characters into their textual representation, i.e. the number written in English.
 
 ---------
 
